@@ -181,6 +181,13 @@ body {
   margin-right: 10px;
 }
 
+.flex-gal {
+  margin-top: 4.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 15px;
+}
+
 .pic {
   display: flex;
   justify-content: center;
@@ -189,13 +196,18 @@ body {
 }
 
 .bit {
-  width: 100px;
-  height: 100px;
+  width: 33.33%;
+  padding: 10px;
 }
 
 .bit > img {
   width: 100%;
   height: 100%;
+}
+
+.bit:hover {
+  transform: scale(1.2);
+  transition: 1s;
 }
 
 @media only screen and (max-width: 767px) {
