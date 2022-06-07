@@ -18,12 +18,12 @@ body {
 }
 
 .navlink:hover {
-    color: #556B2F;
+    color: #0000ff;
     text-decoration: none;
 }
 
 .main {
-  background-color: #556B2F;
+  background-color: #0000ff;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -47,7 +47,7 @@ body {
 }
 
 .head-2 {
-  color: #556B2F;
+  color: #0000ff;
   margin: 20px;
   font-family: 'Roboto';
 }
@@ -104,7 +104,7 @@ body {
 }
 
 .truth-false {
-  background-color: #556B2F;
+  background-color: #0000ff;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -163,17 +163,17 @@ body {
 
 .btn-green {
   background-color: #ffffff;
-  border: 1px solid #556B2F;
-  color: #556B2F;
+  border: 1px solid #0000ff;
+  color: #0000ff;
 }
 
 .btn-green:hover {
-  background-color: #556B2F;
+  background-color: #0000ff;
   color: #ffffff;
 }
 
 .green {
-  color: #556B2F;
+  color: #0000ff;
 }
 
 .big {
